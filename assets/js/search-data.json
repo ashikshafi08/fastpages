@@ -62,17 +62,6 @@
   
 
   
-      ,"page4": {
-          "title": "Podcasts",
-          "content": "| |",
-          "url": "https://ashikshafi08.github.io/fastpages/podcasts/",
-          "relUrl": "/podcasts/",
-          "date": ""
-      }
-      
-  
-
-  
   
 
   
@@ -90,7 +79,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ashikshafi08.github.io/fastpages/robots.txt",
