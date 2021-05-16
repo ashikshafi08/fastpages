@@ -60,9 +60,20 @@
   
 
   
+      ,"page3": {
+          "title": "Goals & Targets",
+          "content": "Will update my monthly / weekly goals in here to make things more organized .",
+          "url": "https://ashikshafi08.github.io/fastpages/goals_targ/",
+          "relUrl": "/goals_targ/",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page4": {
+
+  
+      ,"page5": {
           "title": "Podcasts",
           "content": "| |",
           "url": "https://ashikshafi08.github.io/fastpages/podcasts/",
@@ -92,7 +103,7 @@
   
 
   
-      ,"page12": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ashikshafi08.github.io/fastpages/robots.txt",
