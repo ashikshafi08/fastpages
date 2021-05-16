@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Goals & Targets
+title: Goals
 permalink: /goals_targ/
 ---
 
