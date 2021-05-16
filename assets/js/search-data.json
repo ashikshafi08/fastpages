@@ -49,9 +49,20 @@
   
 
   
+      ,"page2": {
+          "title": "Challenge Logs",
+          "content": "I will be logging my activities here during the challenge .",
+          "url": "https://ashikshafi08.github.io/fastpages/challenge_logs/",
+          "relUrl": "/challenge_logs/",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page3": {
+
+  
+      ,"page4": {
           "title": "Podcasts",
           "content": "| |",
           "url": "https://ashikshafi08.github.io/fastpages/podcasts/",
@@ -81,7 +92,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ashikshafi08.github.io/fastpages/robots.txt",
