@@ -62,12 +62,6 @@
   
 
   
-  
-
-  
-  
-
-  
 
   
   
@@ -76,10 +70,18 @@
   
 
   
+
+  
   
 
   
-      ,"page9": {
+  
+
+  
+  
+
+  
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ashikshafi08.github.io/fastpages/robots.txt",
